@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Pradip-ux/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0142-linked-list-cycle-ii](https://github.com/Pradip-ux/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Pradip-ux/leetcode-solutions/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Pradip-ux/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Pradip-ux/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Pradip-ux/leetcode-solutions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
